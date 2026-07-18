@@ -6,16 +6,7 @@
 ![Focus](https://img.shields.io/badge/Focus-Anomaly%20Detection%20%7C%20User%20Behavior-purple?style=flat)
 
 > A machine learning pipeline that detects anomalous user behavior and flags potential insider threats by analyzing authentication logs and file access activity using Isolation Forest anomaly detection.
-# 🎣 Phishing Detection — NLP & Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/ML-Logistic%20Regression-orange?style=flat)
-![NLP](https://img.shields.io/badge/NLP-TF--IDF%20%7C%20NLTK-green?style=flat)
-![Status](https://img.shields.io/badge/Status-Paused-brightgreen?style=flat)
-
-> A machine learning system that detects phishing messages using Natural Language Processing — classifying text as spam or legitimate using TF-IDF vectorization and Logistic Regression.
-
----
 
 ## 📌 Objective
 
