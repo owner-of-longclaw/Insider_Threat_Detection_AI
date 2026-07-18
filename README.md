@@ -15,24 +15,21 @@
 ![Status](https://img.shields.io/badge/Status-Paused-brightgreen?style=flat)
 
 > A machine learning system that detects phishing messages using Natural Language Processing — classifying text as spam or legitimate using TF-IDF vectorization and Logistic Regression.
->>>>>>> 955ded2a1e9fc43da3db7e4cd4ba8e405348ef56
 
 ---
 
 ## 📌 Objective
 
-<<<<<<< HEAD
 Build an AI-powered insider threat detection system that monitors user behavior patterns across authentication and file access logs, identifies statistical anomalies, and flags suspicious activity that deviates from normal baselines — helping SOC analysts detect malicious insiders early.
 =======
 Build a phishing detection pipeline that preprocesses raw text messages, extracts meaningful features using NLP techniques, and classifies them as phishing or legitimate using a trained machine learning model.
->>>>>>> 955ded2a1e9fc43da3db7e4cd4ba8e405348ef56
 
 ---
 
 ## 🧠 How It Works
 
 ```
-<<<<<<< HEAD
+
 Raw Logs (Auth + File Access)
           │
           ▼
@@ -129,7 +126,7 @@ Logistic Regression Model (scikit-learn)
       │
       ▼
 Classification Result
->>>>>>> 955ded2a1e9fc43da3db7e4cd4ba8e405348ef56
+
 ```
 
 ---
@@ -139,7 +136,7 @@ Classification Result
 | Component | Tool / Library |
 |---|---|
 | Language | Python 3.x |
-<<<<<<< HEAD
+
 | ML Model | Isolation Forest (scikit-learn) |
 | Data Handling | Pandas, NumPy |
 | Visualization | Matplotlib |
@@ -242,7 +239,6 @@ python phishing_detector.py
 
 ## 📚 Key Learnings
 
-<<<<<<< HEAD
 - Understood how Isolation Forest detects outliers without labeled training data
 - Learned how to engineer behavioral features from raw log data
 - Gained experience building an end-to-end ML pipeline for security use cases
@@ -252,13 +248,13 @@ python phishing_detector.py
 - Learned how stopword removal and stemming improve model accuracy
 - Gained experience combining rule-based and ML approaches for better detection
 - Practiced evaluating model performance using precision, recall, and F1-score
->>>>>>> 955ded2a1e9fc43da3db7e4cd4ba8e405348ef56
+
 
 ---
 
 ## 🔮 Future Improvements
 
-<<<<<<< HEAD
+
 - [ ] Add UEBA (User and Entity Behavior Analytics) scoring
 - [ ] Integrate with Splunk for real-time detection
 - [ ] Add email alerting for flagged users
@@ -270,34 +266,33 @@ python phishing_detector.py
 - [ ] Build a simple web interface for real-time detection
 - [ ] Train on a larger, more diverse dataset
 - [ ] Add multilingual phishing detection
->>>>>>> 955ded2a1e9fc43da3db7e4cd4ba8e405348ef56
+
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-<<<<<<< HEAD
+
 `Python` `scikit-learn` `Isolation Forest` `Pandas` `NumPy` `Matplotlib` `UEBA`
 =======
 `Python` `NLTK` `Pandas` `scikit-learn` `TF-IDF` `Logistic Regression` `NLP`
->>>>>>> 955ded2a1e9fc43da3db7e4cd4ba8e405348ef56
+
 
 ---
 
 ## 👤 Author
 
-<<<<<<< HEAD
+
 **Shyam Ravi**
 =======
 **AK**
->>>>>>> 955ded2a1e9fc43da3db7e4cd4ba8e405348ef56
+
 CEH | SOC Aspirant | Splunk SIEM
 [LinkedIn](https://linkedin.com/in/) • [GitHub](https://github.com/)
 
 ---
 
-<<<<<<< HEAD
+
 > ⚠️ This project uses synthetic data generated for educational purposes. No real user data is used.
 =======
 > ⚠️ This project is built for educational and research purposes in cybersecurity threat detection.
->>>>>>> 955ded2a1e9fc43da3db7e4cd4ba8e405348ef56
