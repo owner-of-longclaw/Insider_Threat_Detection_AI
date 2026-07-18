@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🔍 Insider Threat Detection — AI & Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python&logoColor=white)
